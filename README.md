@@ -62,12 +62,11 @@ data_path :
 
 ⸻
 
-📁 Project Structure
-
+## 📁 Project Structure
+```
 ├── Weed_Detection_v2.ipynb     # Model training, evaluation, predictions
 ├── README.md                   # Documentation
 └── (Dataset stored on Google Drive)
-
 
 ⸻
 
